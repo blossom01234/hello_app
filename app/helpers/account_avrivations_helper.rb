@@ -1,0 +1,2 @@
+module AccountAvrivationsHelper
+end

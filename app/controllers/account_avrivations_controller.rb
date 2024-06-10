@@ -1,0 +1,2 @@
+class AccountAvrivationsController < ApplicationController
+end
