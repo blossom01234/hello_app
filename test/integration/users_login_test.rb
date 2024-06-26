@@ -83,7 +83,7 @@ class LogoutTest < Logout
   end
 end
 
-class RememberingTest < UsersLogin
+class RememberLoginTest < UsersLogin
 
   test "login with remembering" do
     log_in_as(@user, remember_me: '1')
